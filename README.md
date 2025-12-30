@@ -28,24 +28,26 @@ Building intelligent, production-ready AI systems that scale beyond demos 🚀
 
 ## 💻 Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,html,css" />
+## 🛠 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=
+  python,cs,cpp,c,js,html,css,
+  aws,gcp,docker,kubernetes,
+  git,github,gitlab,
+  postgres,mysql,sqlite,mongodb,
+  fastapi,flask,
+  tensorflow,pytorch,sklearn,
+  anaconda,linux,nginx,
+  postman,pycharm,vscode,
+  colab
+  " />
 </p>
 
-### AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
-</p>
-
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,sqlite,mongodb" />
-</p>
-
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,github,gitlab,linux" />
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-000000?style=flat&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Perplexity-1A1A1A?style=flat&logo=perplexity&logoColor=white"/>
 </p>
 
 ---
