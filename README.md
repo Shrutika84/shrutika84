@@ -67,9 +67,7 @@ Building intelligent, production-ready AI systems that scale beyond demos 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
 
-  <!-- GenAI Tools (custom icons via devicon where available) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="45"/>
-</p>
+ </p>
 
 
 ---
