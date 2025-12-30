@@ -26,8 +26,6 @@ Building intelligent, production-ready AI systems that scale beyond demos 🚀
 
 ---
 
-## 💻 Tech Stack
-
 ## 🛠 Languages & Tools
 
 <p align="left">
@@ -49,6 +47,7 @@ Building intelligent, production-ready AI systems that scale beyond demos 🚀
   <img src="https://img.shields.io/badge/Claude-000000?style=flat&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Perplexity-1A1A1A?style=flat&logo=perplexity&logoColor=white"/>
 </p>
+
 
 ---
 
