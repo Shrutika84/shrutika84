@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Agentic AI systems with RAG, LLMs, and multi-agent workflows<br>I’m looking for help with scaling AI systems (latency, evals, deployment pain 😅)<br>I’m currently learning Agent frameworks, GenAI tools<br>I’m always learning something new, whether it’s advanced LLM evaluation, agent frameworks, or MLOps best practices. <br>If it’s challenging, meaningful, and a little complex, I’m probably excited to build it.
+I’m an AI/ML Engineer building agentic AI systems with RAG, LLMs, and multi-agent workflows—focused on taking ideas from experimentation to real, scalable production. I enjoy designing end-to-end pipelines, optimizing latency and evaluations, and making AI systems robust enough for real users (not just demos 😄). I’m currently deep-diving into agent frameworks, GenAI tools, and MLOps best practices, and I love collaborating on ambitious projects that sit at the intersection of AI, impact, and complexity. If it’s challenging, meaningful, and a little chaotic, I’m probably excited to build it. ⚡
 
 
 ## 🌐 Socials:
